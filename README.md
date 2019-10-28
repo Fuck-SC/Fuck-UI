@@ -11,5 +11,7 @@ Facebook 开源声明式UI渲染框架：https://github.com/facebook/litho
 
 ## Vending
 微信 UI异步渲染框架
+
 介绍文章：
-https://gryamy.gitbooks.io/vending-doc/content/
+
+1. https://gryamy.gitbooks.io/vending-doc/content/
